@@ -3,7 +3,7 @@ Field-Oriented Control (FOC) of Permanent Magnet Synchronous Motor (PMSM) Using 
 
 These examples implement various motor control techniques to control the speed of a three-phase PMSM.
 
-The motor control algorithm runs on the Renesas Motor Control Development Kits. These development kits enable easy evaluation of motor control using permanent magnet synchronous motors (brushless DC motors
+The motor control algorithm runs on the Renesas Motor Control Development Kits. These development kits enable easy evaluation of motor control using permanent magnet synchronous motors (brushless DC motors).
 
 ## Setup 
 
